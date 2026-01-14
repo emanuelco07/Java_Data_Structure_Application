@@ -36,7 +36,7 @@ The core objective of this project was to implement complex data structures (Bin
 
 The project includes a comprehensive 35-page technical report covering system requirements, design patterns, testing scenarios, and user guides.
 
-> **Note:** For more detailed information, technical specifications, and implementation logic, please check the **[Romanian Documentation](./Documentatie_Proiect.pdf)** included in this repository.
+> **Note:** For more detailed information, technical specifications, and implementation logic, please check the **[Romanian Documentation](https://github.com/emanuelco07/Java_Data_Structure_Application/blob/main/Documentatie_ISW.pdf)** included in this repository.
 
 ## Contributors
 
