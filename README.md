@@ -1,4 +1,4 @@
-# Java_Data_Structure_Application
+# Java_Data_Structures_Application
 
 A collaborative Software Engineering project developed by 3rd-year Computer Science students at the Petroleum-Gas University of Ploiesti. This application integrates four distinct data structure problems into a single, intuitive Java Swing GUI.
 
