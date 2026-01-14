@@ -18,12 +18,12 @@ The core objective of this project was to implement complex data structures (Bin
 | | | |
 |:---:|:---:|:---:|
 | ![Main Menu](image1.png) | ![Module 1](image2.png) | ![Module 2](image3.png) |
-| *Main Interface* | *Data Visualization* | *Algorithm Output* |
+| *Main Interface* | *Node Classification* | *Root-to-Leaf Paths* |
 
 | | |
 |:---:|:---:|
 | ![Module 3](image4.png) | ![Module 4](image5.png) |
-| *Tree Analysis* | *Path Discovery* |
+| *Queue of Queues* | *Set Operations* |
 
 ## Technical Stack
 
